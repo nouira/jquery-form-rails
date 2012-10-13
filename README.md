@@ -1,4 +1,4 @@
-A port to rails gem base on the jquery Form Plugin git repository
+A rails gem that is forked directly from the jquery Form Plugin git repository to make easy updates for future versions.
 
 ---
 
