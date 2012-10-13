@@ -1,3 +1,7 @@
+A port to rails gem base on the jquery Form Plugin git repository
+
+---
+
 #[jQuery Form Plugin](http://jquery.malsup.com/form/)
 
 ##Overview
